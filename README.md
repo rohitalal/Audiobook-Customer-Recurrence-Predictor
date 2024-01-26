@@ -1,2 +1,2 @@
 # Audiobook-Customer-Recurrence-Predictor
-Developed a ML Model to predict the probable returning customers using a dataset which consists of customer reviews, app engagement time etc
+This is a simple predictor of customers who can return again to purchase the audiobooks. The dataset comprises of reviews and app engagement times of customers and based on that it predicts which customers can return again to purchase the audiobooks. This may help the marketing team for personalised advertisements for better consumer realtions. The dataset required some preprocessing which is primarily with the help of sklearn and numpy. And finally it uses tensorflow and numpy for training the models and prediction.
